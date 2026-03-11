@@ -37,6 +37,11 @@ This project was created to practice building real-world web applications, impro
 
 Healthcare websites are important because they help users quickly access hospital services, doctor information, and medical resources in one place.
 
+
+Live Demo: https://69b1073be0e8d20d8dcc8d5f--cerulean-mousse-89d20e.netlify.app/
+
+A responsive hospital website designed to provide patients with easy access to healthcare information, services, and doctor details through a modern and user-friendly interface.
+
 One-Line Portfolio Version
 
 A modern responsive hospital website UI that showcases healthcare services, doctors, and hospital facilities using front-end web technologies.
